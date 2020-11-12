@@ -1,0 +1,19 @@
+﻿  Przemysl4_0.cpp
+c:\users\łukasz głowacki\source\repos\przemysl4_0\przemysl4_0\przemysl4_0.cpp(83): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\łukasz głowacki\source\repos\przemysl4_0\przemysl4_0\przemysl4_0.cpp(117): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\łukasz głowacki\source\repos\przemysl4_0\przemysl4_0\przemysl4_0.cpp(137): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\łukasz głowacki\source\repos\przemysl4_0\przemysl4_0\przemysl4_0.cpp(94): warning C4101: "x1": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\łukasz głowacki\source\repos\przemysl4_0\przemysl4_0\przemysl4_0.cpp(95): warning C4101: "x2": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\łukasz głowacki\source\repos\przemysl4_0\przemysl4_0\przemysl4_0.cpp(196): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\łukasz głowacki\source\repos\przemysl4_0\przemysl4_0\przemysl4_0.cpp(219): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\łukasz głowacki\source\repos\przemysl4_0\przemysl4_0\przemysl4_0.cpp(227): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\łukasz głowacki\source\repos\przemysl4_0\przemysl4_0\przemysl4_0.cpp(172): warning C4101: "x1": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\łukasz głowacki\source\repos\przemysl4_0\przemysl4_0\przemysl4_0.cpp(173): warning C4101: "x2": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\łukasz głowacki\source\repos\przemysl4_0\przemysl4_0\przemysl4_0.cpp(265): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\łukasz głowacki\source\repos\przemysl4_0\przemysl4_0\przemysl4_0.cpp(274): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Trwa generowanie kodu
+  0 of 354 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Przemysl4_0.vcxproj -> C:\Users\Łukasz Głowacki\source\repos\Przemysl4_0\Release\Przemysl4_0.exe
